@@ -65,10 +65,12 @@ document.getElementById('send').addEventListener('click', function (e) {
         return;
     }
 
-    alert('Заявка отправлена!');
+    alert('Сообщение отправлено!');
     this.submit();
 });
 
 document.getElementById('photo').addEventListener('click', function() {
     alert('Привет, я Вероника! Жду Вашего сообщения, напишите мне!');
 });
+
+
