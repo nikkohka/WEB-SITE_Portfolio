@@ -263,7 +263,7 @@ h2 {
 
 .input__name, 
 .input__email, 
-.input__massage {
+.input__message {
     background-color: #6c91e0;
     outline: none;
     padding: 6px 0 4px 10px;
@@ -277,13 +277,13 @@ h2 {
     height: 30px;
     margin-bottom: 5px;
 }
-.input__massage {
+.input__message {
     display: block;
     width: 515px;
     height: 70px;
 }
  
-.input__massage::placeholder {
+.input__message::placeholder {
     color: #373a3a;
 }
 
@@ -302,7 +302,7 @@ h2 {
     display: inline-block;
 }
 
-.contact__massage__button {
+.contact__message__button {
     display: inline-block;
     width: 140px;
     height: 40px;
@@ -524,7 +524,7 @@ h2 {
     #contact__form {
         margin-left: 140px;
     }
-    .input__massage {
+    .input__message {
         width: 250px;
     }
     #send {
@@ -617,7 +617,7 @@ h2 {
     #contact__form {
         margin-left: 40px;
     }
-    .input__massage {
+    .input__message {
         width: 250px;
     }
     #send {
@@ -708,7 +708,7 @@ h2 {
     #contact__form {
         margin-left: 40px;
     }
-    .input__massage {
+    .input__message {
         width: 250px;
     }
     #send {
