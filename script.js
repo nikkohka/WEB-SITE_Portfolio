@@ -68,3 +68,7 @@ document.getElementById('send').addEventListener('click', function (e) {
     alert('Заявка отправлена!');
     this.submit();
 });
+
+document.getElementById('photo').addEventListener('click', function() {
+    alert('Привет, я Вероника! Жду Вашего сообщения, напишите мне!');
+});
